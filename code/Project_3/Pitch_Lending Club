@@ -1,0 +1,18 @@
+What do people need money for?
+
+Lending Club is the largest peer-to-peer lending platform in the world. Since 2010, more than $ 26bn dollars in loans were issued. Borrowers use Lending Club to get cheaper financing than with a bank or to get a loan if the banks do not think they are eligible for it. Reasons for loans can be private or public. The lenders are private investors as well as companies.
+
+Lending Club offers individual data on borrowers. Using this data, I want to have a look who are the characteristics of borrowers.
+
+Questions:
+- For what do rich/poor people need to borrow money?
+- What kind of profile do people have who are late in paying back their loans?
+  (gender, regional, job title, income, reason, state)
+- What's a bad thing to borrow money for?
+
+
+Suggested title:
+"Never give money to this type of people"
+
+Data:
+https://www.lendingclub.com/info/download-data.action
