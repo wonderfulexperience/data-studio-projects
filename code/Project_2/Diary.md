@@ -40,3 +40,7 @@ ax.plot([lower_costs_x,lower_costs_x],[lower_costs_x,lower_costs_y], color="gree
 ax.plot([higher_costs_x,higher_costs_x],[higher_costs_x,higher_costs_y], color="red", linewidth = 0.4)
 
 where (x,x) is the diagonal line, while (x,y) is the new point.
+
+#2017-08-08
+I used www.gifmaker.com to do an animation out of my png files.
+I used multiple charts to make slides show longer on the animation.
